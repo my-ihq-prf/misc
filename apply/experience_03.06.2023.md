@@ -54,12 +54,14 @@
 
 
 2.[Showyoursport|Nederland](http://trial-showyoursport.000webhostapp.com/)
+   
    TASK: https://github.com/my-ihq-prf/Laravel-Vue-Js-Tailwind-Css
+   
    RESULT: https://trial-showyoursport.000webhostapp.com
    
 3.PaaS(correlate.com,gloomshade.com,soelab.no,devshade.com...)
 
-    (DigitalOcean,Ubuntu 20.04,Docker,Nginx:1.19,php:7.2,node:12,postgres:9.5,redis:6,rabbitmq:3,Webpack,Stylus,VueJs2)
+ (DigitalOcean,Ubuntu 20.04,Docker,Nginx:1.19,php:7.2,node:12,postgres:9.5,redis:6,rabbitmq:3,Webpack,Stylus,VueJs2)
     
 	role: principal developer
 
