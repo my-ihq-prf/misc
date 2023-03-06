@@ -2,37 +2,37 @@
 
 1.[RSS-Feeds-Edit-Aggregator](https://github.com/my-ihq-prf/lifehacker.com-RSS-Feeds-Edit-Aggregator)
 
-  TASK:  RSS feed parser + administrator interface
+- TASK:  RSS feed parser + administrator interface
 
-	**Task description**
-	**Example of project structure**
+**Task description**
+**Example of project structure**
 
-	To implement RSS feeds on NodeJS/Laravel Parser (for example [https://lifehacker.com/rss](https://lifehacker.com/rss) you can choose on
-	at your discretion) using a cron job (or using a worker would be a plus). There will be new publications
-	are stored in the database in the 'posts' table.
+To implement RSS feeds on NodeJS/Laravel Parser (for example [https://lifehacker.com/rss](https://lifehacker.com/rss) you can choose on
+at your discretion) using a cron job (or using a worker would be a plus). There will be new publications
+are stored in the database in the 'posts' table.
 
-	1.
+1.
 
-	Create CRUD for posts - REST API (or GraphQL API)
+Create CRUD for posts - REST API (or GraphQL API)
 
-	2.
+2.
 
-	Create an admin interface SPA (choose React/Vue/Angular2) to manage list form entries with
-	pagination, sorting and searching.
+Create an admin interface SPA (choose React/Vue/Angular2) to manage list form entries with
+pagination, sorting and searching.
 
-	3.
+3.
 
-	The ability to create, edit and delete posts should also be implemented in the admin interface
+The ability to create, edit and delete posts should also be implemented in the admin interface
 
-	4.
+4.
 
-	Close access to the admin user interface using basic HTTP authentication (in addition, JWT authentication will be implemented).
+Close access to the admin user interface using basic HTTP authentication (in addition, JWT authentication will be implemented).
 
-	5.
+5.
 
-	Create a public GitHub repository (Gitlab, etc.). Publish the code. Submit a link
+Create a public GitHub repository (Gitlab, etc.). Publish the code. Submit a link
 
-	6.
+6.
 
 ```
 	.
